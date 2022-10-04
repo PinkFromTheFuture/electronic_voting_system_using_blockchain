@@ -3,5 +3,6 @@ A completely open source electronic voting system that uses the blockchain techn
 
 ## Release
 
-Master's projects have a deadline, so I had to rush the delivery of the project. Release was planned to be done once the project was approoved, but now I need to clean up everything and organize it so that others can contribute to the project.
-Expect it to be available here before the end of July, 2022.
+Master's projects have a deadline, so the project was released before the deadline without the measures needed to make it pubicly available. These measures were waiting the approval of the project, but once it was aprooved the author started working on something else straight away and still didn't have time to prepare the release.
+
+Expect it to be eventually available here.
